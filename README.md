@@ -1,5 +1,6 @@
 # 4KPages-THECBOOK
-The C Book
+[The C Book](https://publications.gbdirect.co.uk/c_book)<br>
+[Copyright](https://publications.gbdirect.co.uk/c_book/copyright.html)
 
 [PDF](https://1drv.ms/b/s!ArSwFV5bfcDrbFJRJ-Dg83QiIYo)
 
