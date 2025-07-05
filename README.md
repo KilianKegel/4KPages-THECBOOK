@@ -2,7 +2,6 @@
 [The C Book](https://publications.gbdirect.co.uk/c_book)<br>
 [Copyright](https://publications.gbdirect.co.uk/c_book/copyright.html)
 
-[PDF](https://1drv.ms/b/s!ArSwFV5bfcDrbFJRJ-Dg83QiIYo)
 
 ![](https://github.com/KilianKegel/4KPages-THECBOOK/blob/main/images/THECBOOK_FFF.jpg) 
 ![](https://github.com/KilianKegel/4KPages-THECBOOK/blob/main/images/THECBOOK_000.jpg) 
